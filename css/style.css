@@ -251,7 +251,7 @@ body {
 
 .page__main {
   height: 100vh;
-  background-image: url(/img/main/Headphones-image-1.png);
+  background-image: url(../img/main/Headphones-image-1.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -269,7 +269,7 @@ body {
 
 .page__why {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 120px;
 }
 
 .title {
@@ -414,7 +414,7 @@ body {
 
 .footer {
   height: 660px;
-  background-image: url(/img/footer/footer-bg.jpg);
+  background-image: url(../img/footer/footer-bg.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
